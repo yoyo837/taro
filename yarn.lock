@@ -20485,10 +20485,10 @@ postcss-syntax@^0.36.2:
   resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.36.2.tgz#f08578c7d95834574e5593a82dfbfa8afae3b51c"
   integrity sha512-nBRg/i7E3SOHWxF3PpF5WnJM/jQ1YpY9000OaVXlAQj6Zp/kIqJxEDWIZ67tAd7NLuk7zqN4yqe9nc0oNAOs1w==
 
-postcss-taro-unit-transform@1.2.15:
-  version "1.2.15"
-  resolved "https://registry.yarnpkg.com/postcss-taro-unit-transform/-/postcss-taro-unit-transform-1.2.15.tgz#bfb3f327c7a529995ccf6bfecca6d606b2fb9f45"
-  integrity sha512-qkhW6iXSyVCkh9fNe6D+lgJE0XK1mt5+AD2uCUVvQqz9Gw749SaYXjsMYJ5oPgmZjUMFxc2/dc8S9KiAg5HPIg==
+postcss-taro-unit-transform@2.2.10:
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/postcss-taro-unit-transform/-/postcss-taro-unit-transform-2.2.10.tgz#3fc6cd4eaa437dca003d9f8cd4b9de85620bd022"
+  integrity sha512-oDXshSIpnzpAKXQu01aFpkWkypDF9qMP0FZPkckE/NsPQyg+P9c+1ojRioz+APpRM9eyN5241QS1s9GI3f9vxw==
   dependencies:
     postcss "^6.0.21"
 
@@ -25635,10 +25635,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
