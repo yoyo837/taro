@@ -3932,10 +3932,10 @@
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.1.tgz#8da5c6530915653f3a1f38fd5f101d8c3f8079c5"
   integrity sha512-+iTbntw2IZPb/anVDbypzfQa+ay64MW0Zo8aJ8gZPWMMK6/OubMVb6lUPMagqjOPnmtauXnFCACVl3O7ogjeqQ==
 
-"@stencil/core@2.9.0":
-  version "2.9.0"
-  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.9.0.tgz#cbac84b996475b8fc983931539ed1261174e2df3"
-  integrity sha512-kY3xYolZoJO1MKslL0NQccHy72R3TIl1prHgfmIrEoGcnMgc6uiskdWaGMuI5/sCGz9T+QuTVz76B1H2ySyBZg==
+"@stencil/core@2.17.3":
+  version "2.17.3"
+  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.17.3.tgz#b86cb76eb57231ce1f04014c2a51d1690c64325d"
+  integrity sha512-qw2DZzOpyaltLLEfYRTj3n+XbvRtkmv4QQimYDJubC6jMY0NXK9r6H2+VyszdbbVmvK1D9GqZtyvY0NmOrztsg==
 
 "@stencil/sass@1.4.1":
   version "1.4.1"
@@ -25635,10 +25635,8 @@ watchpack@^1.7.4:
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.7.5.tgz#1267e6c55e0b9b5be44c2023aed5437a2c26c453"
   integrity sha512-9P3MWk6SrKjHsGkLT2KHXdQ/9SNkyoJbabxnKOoJepsvJjJG8uYTR3yTPxPQvNDI3w4Nz1xnE0TLHK4RIVe/MQ==
   dependencies:
-    chokidar "^3.4.1"
     graceful-fs "^4.1.2"
     neo-async "^2.5.0"
-    watchpack-chokidar2 "^2.0.1"
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
